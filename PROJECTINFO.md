@@ -1,8 +1,8 @@
 
-# Product Name
+# Lambda Layers
 
-> Short blurb about what your product does.
-
+> The Lambda layer exists so that arbitrary expressions can be used as a Layer when constructing Sequential and Functional API models. Lambda layers are best suited for simple operations or quick experimentation. 
+ 
 ## File Structure
 
 ```markdown
