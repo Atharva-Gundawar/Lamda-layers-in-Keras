@@ -8,7 +8,7 @@ Open this colab: [Lamda_layers](https://colab.research.google.com/github/Atharva
 
 ## Built With
 
-* [Tensorfloe](https://www.tensorflow.org/) 
+* [Tensorflow](https://www.tensorflow.org/) 
 
 ## Contributing
 
